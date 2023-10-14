@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "/usr/local/python/3.10.8/lib/python3.10/",
+			"name": "Python Modules"
+		},
+		{
+			"path": "..",
+			"name": "Repo"
+		},
+		{
+			"path": "../.vscode",
+			"name": "Settings"
+		},
+		{
+			"path": "../Python_ENV",
+			"name": "Root (Python)"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"files.encoding": "utf8",
+		"files.insertFinalNewline": true,
+		"files.trimTrailingWhitespace": true,
+		"files.trimFinalNewlines": true,
+		"files.defaultLanguage": "English",
+		"files.exclude": {
+			"**/.git": true,
+			"**/__pycache__": true,
+		}
+	}
+}
